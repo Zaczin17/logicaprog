@@ -10,5 +10,7 @@ if ( numero > 0 ) {
     console.log(`${numero} e positivo`);
 } else if ( numero < 0 ) {
      console.log(`${numero} e negativo`)
+}else { 
+    console.log(`${numero} e nulo `);
 }
 
