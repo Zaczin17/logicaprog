@@ -30,3 +30,6 @@ if ( media >= 5 ) {
  console.log(`Media ${media.toFixed(1)} - sintuaçao: REPROVADO(A)`)
 
 }
+
+
+// comentario inserido em 17/06/26
