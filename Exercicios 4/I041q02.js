@@ -10,4 +10,4 @@ capital = "brasilia"
 
 
 if ( capital === "brasisilia")
-    console.log  ui]
+    console.log 
